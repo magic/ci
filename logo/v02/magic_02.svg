@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <title>magic_02</title>
+  <g>
+    <polygon points="303 50.47 56.165 478 549.835 478 303 50.47" fill="#663695" stroke="#663695" stroke-linejoin="round" stroke-width="16"/>
+    <circle cx="301.722" cy="334.237" r="141.884" fill="#fff" stroke="#663695" stroke-miterlimit="10" stroke-width="16"/>
+    <path d="M192,334.237s49.124-45.47,109.722-45.47,109.722,45.47,109.722,45.47-49.125,45.471-109.722,45.471S192,334.237,192,334.237Z" fill="#fff" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+    <path d="M213,279.778s39.722-30.552,88.722-30.552,88.722,30.552,88.722,30.552" fill="#fff" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+    <circle cx="301.722" cy="334.237" r="39.625" fill="#663695"/>
+    <line x1="301.722" y1="395.592" x2="301.722" y2="449.278" fill="none" stroke="#663695" stroke-linejoin="round" stroke-width="16"/>
+    <path d="M328.565,395.592v21.73c0,28.121,31.955,28.121,31.955-7.669" fill="none" stroke="#663695" stroke-linejoin="round" stroke-width="16"/>
+  </g>
+</svg>

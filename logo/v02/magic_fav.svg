@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <title>magic_fav</title>
+  <polygon points="280 81.47 33.165 509 526.835 509 280 81.47" fill="#663695" stroke="#663695" stroke-miterlimit="10" stroke-width="16"/>
+  <circle cx="278.722" cy="365.237" r="141.884" fill="#fff" stroke="#663695" stroke-miterlimit="10" stroke-width="16"/>
+  <path d="M169,365.237s49.124-45.47,109.722-45.47,109.722,45.47,109.722,45.47-49.125,45.471-109.722,45.471S169,365.237,169,365.237Z" fill="#fff" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <circle cx="278.722" cy="365.237" r="39.625" fill="#663695"/>
+</svg>

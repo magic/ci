@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <title>magic_01</title>
+  <polygon points="320 81.47 73.165 509 566.835 509 320 81.47" fill="#663695" stroke="#663695" stroke-miterlimit="10" stroke-width="16"/>
+  <circle cx="318.722" cy="365.237" r="141.884" fill="#fff" stroke="#663695" stroke-miterlimit="10" stroke-width="16"/>
+  <path d="M209,365.237s49.124-45.47,109.722-45.47,109.722,45.47,109.722,45.47-49.125,45.471-109.722,45.471S209,365.237,209,365.237Z" fill="#fff" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <path d="M275.193,291.14a138.95,138.95,0,0,1,43.529-7.373c17.333,0,33.727,3.72,48.3,9.033" fill="#fff" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <circle cx="318.722" cy="365.237" r="39.625" fill="#663695"/>
+  <line x1="318.722" y1="434.592" x2="318.722" y2="480.278" fill="none" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <path d="M345.565,434.592v13.73c0,28.121,31.955,28.121,31.955-7.669" fill="none" stroke="#663695" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <line x1="318.722" y1="147.592" x2="318.722" y2="201.278" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  <line x1="509.474" y1="476.037" x2="462.422" y2="450.186" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  <line x1="132.225" y1="476.659" x2="176.716" y2="446.614" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+</svg>
