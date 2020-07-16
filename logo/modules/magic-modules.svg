@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="444" width="512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 444">
   <path d="M512 444L256 0 0 444z" fill="#663695"/>
   <circle cx="256" cy="294" r="130" fill="#fff"/>
-  <path d="M255.887 73.395A7.5 7.5 0 00248.5 81v53a7.5 7.5 0 1015 0V81a7.5 7.5 0 00-7.613-7.605zm141.082 294.044a7.5 7.5 0 00-4.162 13.78l43 29a7.5 7.5 0 108.386-12.438l-43-29a7.5 7.5 0 00-4.224-1.342zm-282.162.006a7.5 7.5 0 00-4 1.336l-43 29a7.5 7.5 0 108.386 12.438l43-29a7.5 7.5 0 00-4.386-13.774z" fill="#fff"/>
-  <path d="M234.682 268.361l39.96 18.928 74.029-34.911m-74.03 34.911v87.49m73.609-83.284l-74.03 40.38-63.513-35.753" fill="none" stroke="#639" stroke-width="4.261"/>
-  <path d="M237.206 352.065l-2.524-84.125 74.45-33.229" fill="none" stroke="#639" stroke-width="4.261"/>
-  <path d="M314.18 351.644l.42-82.442-75.712-34.911" fill="none" stroke="#639" stroke-width="4.261"/>
-  <path d="M227.532 277.194l7.15-2.944m-35.332 27.76l.841 26.5 74.45 47.53 72.347-45.427 2.103-79.077-74.45-32.808-35.753 15.563 1.262 31.546" fill="none" stroke="#639" stroke-width="8.521"/>
-  <path d="M156.867 287.29l33.23 18.927 37.435-17.666-.842-36.594-35.332-16.404-37.014 13.039z" fill="none" stroke="#639" stroke-width="8.521"/>
-  <path d="M188.835 266.258l1.261 38.277zm-32.809-16.825l32.809 16.825 38.276-14.722" fill="none" stroke="#639" stroke-width="4.261"/>
+  <path d="M256 81v53m184 270l-43-29M72 404l43-29" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 262l40 19 74-35m-74 35v88m73-84l-74 41-63-36" fill="none" stroke="#639" stroke-width="4"/>
+  <path d="M234 346l-2-84 74-33" fill="none" stroke="#639" stroke-width="4"/>
+  <path d="M311 346l1-83-76-35" fill="none" stroke="#639" stroke-width="4"/>
+  <path d="M225 271l7-3m-36 28l1 27 75 47 72-45 2-79-74-33-36 15 1 32" fill="none" stroke="#639" stroke-width="9"/>
+  <path d="M154 281l33 19 38-17-1-37-36-16-37 13z" fill="none" stroke="#639" stroke-width="9"/>
+  <path d="M186 260l1 39zm-33-17l33 17 38-14" fill="none" stroke="#639" stroke-width="4"/>
 </svg>

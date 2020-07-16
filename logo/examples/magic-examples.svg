@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="920.695" width="1026.831">
-  <path d="M1026.83 920.695L513.416 0 0 920.695z" fill="#663695"/>
-  <ellipse cx="513.415" cy="609.649" rx="260.719" ry="269.573" fill="#fff"/>
-  <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M513.188 152.194a15.043 15.554 0 00-14.814 15.77v109.903a15.043 15.554 0 1030.083 0V167.965a15.043 15.554 0 00-15.269-15.771zm282.944 609.742a15.043 15.554 0 00-8.347 28.573l86.238 60.136a15.043 15.554 0 1016.82-25.791l-86.238-60.135a15.043 15.554 0 00-8.473-2.783zm-565.884.013a15.043 15.554 0 00-8.022 2.77l-86.238 60.135a15.043 15.554 0 1016.82 25.791l86.238-60.135a15.043 15.554 0 00-8.798-28.561z" color="#000" font-weight="400" font-family="sans-serif" overflow="visible" fill="#fff"/>
-  <path d="M461.48 416.96l-76.075 84.204c-11.975 22.403 17.61 62.573 40.15 49.44L600.95 742.189c39.446 33.99 119.043-41.716 88.05-89.612L515.013 459.448c13.384-30.128-33.106-62.574-53.534-42.488zm32.401 45.578l104.25 114.332h-126.79l-41.56-46.35c-20.427 16.222-33.81-10.816-21.836-25.494l64.1-67.981c10.566-10.815 33.107 13.905 21.836 25.493zM373.43 659.529c54.238.773.704-108.924.704-108.924s-67.621 108.924-.704 108.924zm-8.453-8.498c-23.95-4.635-12.679-55.62.705-75.706-8.453 27.81-7.749 60.256-.705 75.706z" fill="#639"/>
+<svg viewBox="0 0 512 444">
+  <path d="M512 444L256 0 0 444z" fill="#663695"/>
+  <circle cx="256" cy="294" r="130" fill="#fff"/>
+  <path d="M256 81v53m184 270l-43-29M72 404l43-29" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M221 220l-38 40c-6 12 9 31 20 24l88 93c19 17 59-20 44-43l-87-93c6-15-17-31-27-21zm16 22l52 55h-63l-21-22c-10 8-17-5-11-13l32-33c6-4 17 7 11 13zm-60 96c27 0 1-54 1-54s-34 54-1 54zm-4-5c-12-2-6-27 0-37-4 14-4 30 0 37z" fill="#639"/>
 </svg>
